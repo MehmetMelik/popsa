@@ -1,0 +1,7 @@
+<configuration scan="true" scanPeriod="15 seconds">
+    <logger name="org.springframework" level="INFO"/>
+
+    <root level="INFO">
+    </root>
+
+</configuration>
